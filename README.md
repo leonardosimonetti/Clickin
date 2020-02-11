@@ -1,2 +1,2 @@
-# clickin
-Projeto Integrador Generation
+# ProjetoIntegradorClickIn
+Rede social criada no bootcamp da Generation BR
